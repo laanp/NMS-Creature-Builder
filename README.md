@@ -28,7 +28,7 @@ No Man's Sky Save Game Editor.
 --------------------------------------------------------------------------------------------
 Youtube: [How To Use This Tool](https://youtu.be/imNyf0Twseg?si=1q4KYMkeIb0O9D_t) 
 
-GitHub Download: [NMS Creature Builder - Latest Release](https://www.youtube.com/c/PeterLaan)
+GitHub Download: [NMS Creature Builder - Latest Release](https://github.com/laanp/NMS-Creature-Builder/releases/tag/v1.6)
 
 
 --------------------------------------------------------------------------------------------
