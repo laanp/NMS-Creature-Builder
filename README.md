@@ -1,7 +1,16 @@
 # NMS-Creature-Builder
 --------------------------------------------------------------------------------------------
-NMS Creature Builder - Created by laanp
+NMS Creature Builder - Created by laanp 
 --------------------------------------------------------------------------------------------
+
+IMPORTANT NOTICE! ****
+This repository and Workbook tool for No Man's Sky is no longer being supported or updated.
+I am leaving the tool here in case anyone is interested in the code behind it, or would like
+to take it on as a personal project.
+- laanp
+
+
+
 This Excel workbook was created to facilitate management & modification of No Man's Sky pet
 information.
 
